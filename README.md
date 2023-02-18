@@ -3,7 +3,7 @@
 ## Overview
  Folder | Description 
  ----  | ---- 
- code  | implementation for CatSQL system
- eval | prediction and evaluation results of CatSQL
- doc | descriptions of model details and rules
+ code  | The implementation for CatSQL system
+ eval | The prediction and evaluation results of CatSQL
+ doc | Descriptions of model details and rules
  
